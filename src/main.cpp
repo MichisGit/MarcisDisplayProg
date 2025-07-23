@@ -4,7 +4,7 @@
 /***************************************************************************
  *
  *
- * Max&Marcel Displayprogrammierung based on Example of INA219_WE
+ * Max & Marcel Displayprogrammierung based on Example of INA219_WE
  *
  * Further information can be found on:
  * https://wolles-elektronikkiste.de/ina219_1 (German)
